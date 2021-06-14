@@ -5,6 +5,7 @@ Services Used:
 Amazon S3
 Diagram:
  
+![image](https://user-images.githubusercontent.com/85041307/121835337-492c6280-cc8e-11eb-9760-093b59c8789c.png)
 
 
 Log in to the AWS console.
