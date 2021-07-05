@@ -1,0 +1,66 @@
+GoDaddy
+
+Privacy Settings : Turn privacy OFF
+Domain lock:  Turn to OFF
+
+Prodution
+Create Hosted Zone
+
+Define sample record
+Create non www record
+IP address or another value depeneding on the record type
+Paste IP address
+Record Type: 
+A : Routes traffic to an ipv4
+
+Create non record
+IP address or another value depeneding on the record type
+Paste web address : prafulclcoud.com
+Record Type: 
+CNAME : Routes traffic to another domain name
+Update NS records from AWS to Godaddy
+
+DNS Management
+Copy and paste all 4 nameservers to the godday ( do not include . in that nameserver)
+
+Go to additional settings:
+Transfer domain away from GoDaddy
+Click to Continue with transfer
+Click here to see autohorization Code
+
+Go to Rute53
+Registerd domains
+Click to Transfer domain
+Enter the domain which needs to transfer
+Add to cart
+Continue
+Paste the authorization code from GoDaddy to here in route53
+Import name servers from a Route53 hosted zone that has the same name as the domain
+Privacy Protections: Keep privacy protection Enabled
+
+
+
+
+
+
+https://www.youtube.com/watch?v=xnbQV0CMAek&t=747s
+
+certify the web
+
+Good sources - youtube
+
+Cloud Academy - All in One
+https://www.youtube.com/channel/UCkuE012zWq355GZUAew2THg
+
+On AWS - IIS web serve install SSL without aws services
+
+https://www.joeplaa.com/how-to-host-asp-net-websites-on-aws/hosting-asp-net-apps-aws-part-12-ssl-certificates-in-iis/
+
+https://support.centrestack.com/hc/en-us/articles/360010235053-Obtaining-a-Wildcard-Certificate-from-Let-s-Encrypt-Using-Certify-The-Web
+
+
+
+
+
+
+
